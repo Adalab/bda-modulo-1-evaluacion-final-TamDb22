@@ -27,16 +27,11 @@ Permite realizar compras y actualizar automáticamente el inventario:
 - **Gestión Avanzada:** registro de clientes, historial de compras y manejo de errores.  
 - **Super Bonus:** refactorización total en una clase `TiendaOnline` aplicando POO.
 
-## 🏁 Conclusión
+## Conclusión
 
 Este proyecto consolida los conocimientos adquiridos durante el módulo:  
 manipulación de datos, control de flujo, estructuras dinámicas y pensamiento lógico aplicado a la resolución de problemas.
 
-## 🛠️ Tecnologías Utilizadas
-
-- **Python** 🐍  
-- **Jupyter Notebook** 📘  
-- **Git & GitHub** 🌐  
 
 ## 📂 bda-modulo-1-evaluacion-final-TamDb22/
 │

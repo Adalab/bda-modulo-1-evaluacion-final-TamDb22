@@ -32,18 +32,19 @@ Permite realizar compras y actualizar automáticamente el inventario:
 Este proyecto consolida los conocimientos adquiridos durante el módulo:  
 manipulación de datos, control de flujo, estructuras dinámicas y pensamiento lógico aplicado a la resolución de problemas.
 
+## 📂 Estructura del Repositorio
 
-## 📂 bda-modulo-1-evaluacion-final-TamDb22/
+```plaintext
+📂 bda-modulo-1-evaluacion-final-TamDb22/
 │
 ├── 📘 evaluacion_final_pt_TamaraDiaz.ipynb   # Notebook principal con el código y ejercicios
-├── 📄 README.md                        # Este archivo de documentación
-└── 📁 data/                            # (Opcional) Archivos auxiliares o ejemplos
-
+└──📄 README.md                               # Este archivo de documentación
+```
 ---
 
 **Tamara Díaz | Adalab - Data Analytics & IA Bootcamp 2025**
 > 🧡 *“Aprender a programar es aprender a pensar paso a paso.”*  
-> — **Tamara Díaz**
+> — **Tamara DB**
 ---
 
  ![Python](https://img.shields.io/badge/Python-3.x-blue.svg) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg) ![Adalab](https://img.shields.io/badge/Adalab-Bootcamp-green.svg) 
